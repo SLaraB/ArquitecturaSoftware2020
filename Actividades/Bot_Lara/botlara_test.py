@@ -1,6 +1,8 @@
-from slack import WebClient
-from Hello import Bot_Lara
+import slack
 import os
+from slack import WebClient
+from botlara import Bot_Lara
+
 
 # Create a slack client
 slack_web_client = WebClient(token=os.environ.get("SLACK_TOKEN"))
