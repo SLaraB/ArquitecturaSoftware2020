@@ -10,7 +10,7 @@ class Bot_Lara:
             ),
         },
     }
-     def __init__(self, channel):
+    def __init__(self, channel):
         self.channel = channel
 
 
