@@ -1,0 +1,35 @@
+Docker 
+
+Conceptos previos:
+
+-imagenes:Sistemas
+- Contenedores: Contienen la imagen con el software
+- Puerto: TCP/UDP
+- Volumen: Disco donde se almacenan los datos
+-Docker hub : Contendedor de imagenes para docker
+
+v/s maquina virtual
+- Docker no tiene persistencia de datos.
+
+
+
+Luego de instalar Docker:
+-Test: docker ubuntu bin/echo 'Hello world'
+Terminal : Hello world
+
+-ver imagnes creadas: docker imagnes
+Terminal :imagenes instaladas
+
+-ver contenedores activos: docker ps
+
+
+-Abrir terminal e interactuar : docker run -i -t --rm ubuntu
+
+-salir del volumen: exit
+
+
+EJECUTANDO UN SERVIDOR WEB DESDE Docker
+
+Nos posicionamos en la carpeta /nginx y ejecutamos el siguiente comando
+
+-docker run -d --name "test-mgimx" -p 8080:80 -v $(pwd):/usr/share/nginx/html:ro nginx:latest
