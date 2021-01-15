@@ -3,7 +3,9 @@
 ### En este repositorio se encuentran las carpetas y archivos del semestre de la asignatura  Arquitectura de Software, dictado el segundo semestre del 2020 por el Profesor Mathieu Vernier.
 
 #### Dentro de este repositorio existen tutoriales comunes entre los estudiantes (1 al 4) y tutoriales creador por mi( 7 al 9), Sebastián Lara. 
-#### Los tutoriales comunes corresponden a tutoriales que se basaron en la implementación de un bot en Github, dentro de los cuales se usan tecnologías como: Docker, RabbitMQ  y Python (PyTest).
+#### Los tutoriales comunes corresponden a tutoriales que se basaron en la implementación de un bot en Github, dentro de los cuales se usan tecnologías como: Docker, RabbitMQ  y Python (PyTest). 
+
+PD: Recomiendo ver los tutoriales usando Jupyter Lab para una mejor visión de la información
 
 ![Imagen Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png "Docker logo")
 ![Imagen RabbitMq](https://miro.medium.com/max/1200/1*-cHwP37aTACS1XnzA_YnIw.png)
