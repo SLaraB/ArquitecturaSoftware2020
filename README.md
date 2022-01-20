@@ -12,7 +12,7 @@ PD: Recomiendo ver los tutoriales usando Jupyter Lab para una mejor visión de l
 ![Imagen de Python](https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png "python logo")
 ![Imagen Pytest](https://www.automationlaboratories.com/wp-content/uploads/2018/07/Pytest.png)
 
-#### Los tutoriales personales que cree son basados en: Docker , Jenkins y Python (Matplotlib)
+#### Los tutoriales personales que cree son basados en: Docker , Jenkins y la libreria de Python Matplotlib
 
 ![Imagen Docker](https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png "Docker logo")
 ![Imagen Jenkins](https://ricardogeek.com/wp-content/uploads/2018/06/jenkins-ci_512.png "Jenkins logo")
